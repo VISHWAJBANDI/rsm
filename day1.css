@@ -1,0 +1,32 @@
+#rsm1{
+    background-color:blue ;
+    text-transform: capitalize;
+    color: white;
+
+}
+#rsm2{
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    text-transform: capitalize;   
+}
+
+
+#rsm3{
+    background-color: rgb(132, 217, 5);
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+#rsm4{
+    background-color: violet;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+#rsm5{
+    background-color: darkblue;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
